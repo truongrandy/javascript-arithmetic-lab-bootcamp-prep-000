@@ -1,4 +1,15 @@
 function add(a, b){
-  var number = (a + b)
-  return number
+  return a+b
+}
+
+function subtract(a, b){
+  
+}
+
+function multiply(a, b){
+  
+}
+
+function divide(a, b){
+  
 }
